@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,9 +8,9 @@
 </head>
 <body>
     <h1>Formulaire gestion classe</h1>
-    <form action="">
+    <form action="javascript:ajout();">
     <input type="text" name="nom" id="" placeholder="Nom de la classe">
-    <select name="site" id="" placeholder="Site"></select>
+    <select name="site" id="name_site" placeholder="Site"></select>
     <input type="submit" value="Connexion" placeholder="Ajouter">
 
 
